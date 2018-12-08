@@ -1,3 +1,3 @@
 yarn
 npm run build
-# forever restart production
+forever restart 0
